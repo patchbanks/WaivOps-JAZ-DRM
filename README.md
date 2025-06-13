@@ -4,7 +4,7 @@
 
 ## JAZ-DRM Dataset
 
-The JAZ-DRM Dataset is an open audio collection of drum recordings in the style of classic and modern jazz music. It features 1,675 audio loops provided in uncompressed stereo WAV format, along with paired JSON files containing label data for supervised training of generative AI audio models.
+JAZ-DRM Dataset is an open audio collection of drum recordings in the style of classic and modern jazz music. It features 1,675 audio loops provided in uncompressed stereo WAV format, along with paired JSON files containing label data for supervised training of generative AI audio models.
 
 ## Overview
 
